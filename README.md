@@ -1,4 +1,4 @@
-# esp32_ms_dash — MicroSquirt 7" Gauge Cluster
+# Freestar Dash — 7" Gauge Cluster
 
 Touch dashboard for MS2/Extra (MicroSquirt V3) built on the **Waveshare
 ESP32-S3-Touch-LCD-7** (800×480 RGB, ESP32-S3 N16R8, GT911 touch, TJA1051 CAN).
